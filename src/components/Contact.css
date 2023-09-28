@@ -1,0 +1,24 @@
+.contact-form{
+    width: 560px;
+}
+
+.img-container{
+    position: relative;
+    text-align: center;
+}
+
+.img-container img{
+    filter: brightness(0.6);
+}
+
+.profile-head{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+
+
